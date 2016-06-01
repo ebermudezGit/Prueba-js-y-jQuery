@@ -13,7 +13,6 @@ while (contarY<largo) {
         
         contarX++;
     }
-    //console.log(imprimir+"\r\n");
 
     console.log(contarY+1,imprimir);
     contarY++;
